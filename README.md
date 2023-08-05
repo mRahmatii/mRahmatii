@@ -3,7 +3,7 @@
 
 ## about me
 - 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning react and nextjs
+- 🌱 I’m currently learning devops
 - 👯 I’m looking to collaborate on open source project
 <!-- read my blog from .... --!>
 <!--
