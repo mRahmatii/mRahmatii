@@ -1,8 +1,7 @@
 ###                                                                      Hi👋
-###                                         I’m a passionate Laravel Developer who knows some front technologies 
+###                                         I’m Marzie....
 
 ## about me
-- 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning devops
 - 👯 I’m looking to collaborate on open source project
 <!-- read my blog from .... --!>
